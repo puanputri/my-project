@@ -1,0 +1,14 @@
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/bin/Debug/net9.0/UasSuci
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/bin/Debug/net9.0/UasSuci.deps.json
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/bin/Debug/net9.0/UasSuci.runtimeconfig.json
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/bin/Debug/net9.0/UasSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/bin/Debug/net9.0/UasSuci.pdb
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/obj/Debug/net9.0/UasSuci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/obj/Debug/net9.0/UasSuci.AssemblyInfoInputs.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/obj/Debug/net9.0/UasSuci.AssemblyInfo.cs
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/obj/Debug/net9.0/UasSuci.csproj.CoreCompileInputs.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/obj/Debug/net9.0/UasSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/obj/Debug/net9.0/refint/UasSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/obj/Debug/net9.0/UasSuci.pdb
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/obj/Debug/net9.0/UasSuci.genruntimeconfig.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/UasSuci/obj/Debug/net9.0/ref/UasSuci.dll

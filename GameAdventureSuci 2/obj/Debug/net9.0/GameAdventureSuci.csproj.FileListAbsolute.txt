@@ -1,0 +1,28 @@
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/bin/Debug/net9.0/GameAdventureSuci
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/bin/Debug/net9.0/GameAdventureSuci.deps.json
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/bin/Debug/net9.0/GameAdventureSuci.runtimeconfig.json
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/bin/Debug/net9.0/GameAdventureSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/bin/Debug/net9.0/GameAdventureSuci.pdb
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/obj/Debug/net9.0/GameAdventureSuci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/obj/Debug/net9.0/GameAdventureSuci.AssemblyInfoInputs.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/obj/Debug/net9.0/GameAdventureSuci.AssemblyInfo.cs
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/obj/Debug/net9.0/GameAdventureSuci.csproj.CoreCompileInputs.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/obj/Debug/net9.0/GameAdventureSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/obj/Debug/net9.0/refint/GameAdventureSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/obj/Debug/net9.0/GameAdventureSuci.pdb
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/obj/Debug/net9.0/GameAdventureSuci.genruntimeconfig.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci/obj/Debug/net9.0/ref/GameAdventureSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/bin/Debug/net9.0/GameAdventureSuci
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/bin/Debug/net9.0/GameAdventureSuci.deps.json
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/bin/Debug/net9.0/GameAdventureSuci.runtimeconfig.json
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/bin/Debug/net9.0/GameAdventureSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/bin/Debug/net9.0/GameAdventureSuci.pdb
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/obj/Debug/net9.0/GameAdventureSuci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/obj/Debug/net9.0/GameAdventureSuci.AssemblyInfoInputs.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/obj/Debug/net9.0/GameAdventureSuci.AssemblyInfo.cs
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/obj/Debug/net9.0/GameAdventureSuci.csproj.CoreCompileInputs.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/obj/Debug/net9.0/GameAdventureSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/obj/Debug/net9.0/refint/GameAdventureSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/obj/Debug/net9.0/GameAdventureSuci.pdb
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/obj/Debug/net9.0/GameAdventureSuci.genruntimeconfig.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameAdventureSuci 2/obj/Debug/net9.0/ref/GameAdventureSuci.dll

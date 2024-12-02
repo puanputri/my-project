@@ -1,0 +1,14 @@
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/bin/Debug/net9.0/GameTronSample
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/bin/Debug/net9.0/GameTronSample.deps.json
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/bin/Debug/net9.0/GameTronSample.runtimeconfig.json
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/bin/Debug/net9.0/GameTronSample.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/bin/Debug/net9.0/GameTronSample.pdb
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/obj/Debug/net9.0/GameTronSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/obj/Debug/net9.0/GameTronSample.AssemblyInfoInputs.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/obj/Debug/net9.0/GameTronSample.AssemblyInfo.cs
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/obj/Debug/net9.0/GameTronSample.csproj.CoreCompileInputs.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/obj/Debug/net9.0/GameTronSample.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/obj/Debug/net9.0/refint/GameTronSample.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/obj/Debug/net9.0/GameTronSample.pdb
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/obj/Debug/net9.0/GameTronSample.genruntimeconfig.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameTronSample/obj/Debug/net9.0/ref/GameTronSample.dll

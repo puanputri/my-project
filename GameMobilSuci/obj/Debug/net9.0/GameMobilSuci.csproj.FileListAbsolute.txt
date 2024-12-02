@@ -1,0 +1,14 @@
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/bin/Debug/net9.0/GameMobilSuci
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/bin/Debug/net9.0/GameMobilSuci.deps.json
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/bin/Debug/net9.0/GameMobilSuci.runtimeconfig.json
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/bin/Debug/net9.0/GameMobilSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/bin/Debug/net9.0/GameMobilSuci.pdb
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/obj/Debug/net9.0/GameMobilSuci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/obj/Debug/net9.0/GameMobilSuci.AssemblyInfoInputs.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/obj/Debug/net9.0/GameMobilSuci.AssemblyInfo.cs
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/obj/Debug/net9.0/GameMobilSuci.csproj.CoreCompileInputs.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/obj/Debug/net9.0/GameMobilSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/obj/Debug/net9.0/refint/GameMobilSuci.dll
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/obj/Debug/net9.0/GameMobilSuci.pdb
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/obj/Debug/net9.0/GameMobilSuci.genruntimeconfig.cache
+/Users/fajriillahi/Desktop/chaaw/Coding Assignment Challenge/csharp/GameMobilSuci/obj/Debug/net9.0/ref/GameMobilSuci.dll
