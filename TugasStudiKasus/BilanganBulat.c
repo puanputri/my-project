@@ -3,7 +3,7 @@
 int main() {
     int bilangan;
     
-    printf("Masukkan bilangan bulat: ");
+    printf("Masukkan bilangan bula: ");
     scanf("%d", &bilangan);
     
     printf("Bilangan sebelumnya: %d\n", bilangan - 1);
